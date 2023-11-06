@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samyukthasree S</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samyukthasrees&label=Profile%20views&color=0e75b6&style=flat" alt="samyukthasrees" /> </p>
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=samyukthasrees" alt="samyukthasrees" /></a> </p>
 
